@@ -13,7 +13,7 @@ Multi-threaded REST api server based on Rust and Supabase db
 4. Then Run
 
 
-
+Image Credits: Waifu.pics 
 
 
 
