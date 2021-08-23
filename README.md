@@ -2,7 +2,7 @@
 
 # Anime api 
 
-Multi-threaded Api based on Rust and Supabase db
+Multi-threaded Server based on Rust and Supabase db
 
 
 ### Usage
